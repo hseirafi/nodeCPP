@@ -12,7 +12,7 @@ for(i=0; i<1000000; i++){
 a += b;
 
 }
-std::string sText = "world you can suck it";
+std::string sText = "v8 test";
 // auto total = v8::Number::New(isolate, a); 
 // args.GetReturnValue().Set(total); 
 //auto hTextJS = v8::String::NewFromUtf8(isolate, sText.c_str(), v8::NewStringType::kNormal );
