@@ -1,6 +1,9 @@
 #include <nan.h>
-#include <string>
-
+#include <utility>
+#include <cassert>
+#include <vector>
+#include<iostream>
+#include<array> 
 class rotateArray
     {
 public:    
