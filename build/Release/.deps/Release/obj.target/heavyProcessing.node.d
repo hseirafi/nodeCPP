@@ -1,1 +1,0 @@
-cmd_Release/obj.target/heavyProcessing.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=heavyProcessing.node -o Release/obj.target/heavyProcessing.node -Wl,--start-group Release/obj.target/heavyProcessing/heavyProcessing.o -Wl,--end-group 
